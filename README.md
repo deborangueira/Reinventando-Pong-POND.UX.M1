@@ -55,8 +55,6 @@ Ao oferecer o desafio de propor uma nova abordagem ao Jogo Pong, o objetivo da a
 
 *- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original? Nosso jogo tem como objeto de reinvenção o cenário,  o alvo que será agora uma bola de futebol e os players que não serão mais paddles e sim jogadores de futebol. Desejamos assim atigir o publico alvo infantil da geração atual, aprimorando o jogo para ser mais chamativo para as crianças da geração atual.*
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
-
 ---
 
 ## 4. Tela Digital do Jogo  
