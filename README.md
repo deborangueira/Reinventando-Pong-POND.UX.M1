@@ -14,7 +14,7 @@
 ## 3. Proposta de Reinvenção  
 *Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  
 
-*- **Tema e Ambientação:** Qual é o novo contexto do jogo?*
+*- **Tema e Ambientação:** O contexto do jogo é um campo de futebol*
 
 *- **Personagens ou Elementos Visuais:** Se houver personagens ou variações visuais, descreva.*
 
@@ -38,20 +38,18 @@
 ---
 
 ## 5. Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
 
+Bernardo
+1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+
+Débora
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
 
 ---
 
-## 6. Referências (se houver)  
+## 6. Referências 
 Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
 
----
 
-**📝 Formato de Entrega:**  
-- O relatório pode ser submetido no **GitHub** em **Markdown** `.md` ou como **PDF** `.pdf` **compartilhado via Drive**.  
-- **Nome do arquivo:** `RelatorioPong_Nome1-Nome2`  
-
-📌 **Prazo de entrega:** Sexta-feira, às 23h59.
