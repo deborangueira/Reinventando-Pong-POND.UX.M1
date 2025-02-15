@@ -87,7 +87,7 @@ Bernardo
 Débora
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
 
-No geral, foi tranquilo fazer essa atividade no que se refere a idealização e execução. Nesse sentido, acho que realizar a documentação foi mais desafidor apenas por conta do tempo maior dedicado para fazer a organização das informações e pesquisas. 
+No geral, foi tranquilo fazer essa atividade no que se refere a idealização e execução. Nesse sentido, acho que realizar a documentação foi mais desafidor apenas por conta do tempo maior dedicado para fazer a organização das informações, pesquisas e revisão. 
 
 3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
 
