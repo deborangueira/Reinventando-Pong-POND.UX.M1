@@ -13,20 +13,27 @@ Ao oferecer o desafio de propor uma nova abordagem ao Jogo Pong, o objetivo da a
 *A mecânica de Pong é bastante simples:*
 
 *- Dois jogadores controlam barras verticais (paddles) que podem se mover para cima e para baixo.*
+
 *- A bola se move pela tela, rebatendo nas bordas superior e inferior e nos paddles dos jogadores.*
+
 *- Um ponto é marcado quando um jogador não consegue rebater a bola, e o outro jogador ganha um ponto.*
+
 *- O jogo continua até que um dos jogadores atinja a pontuação máxima.*
   
 **2. Dinâmica (Dynamics)**
 
 *- A interação entre os jogadores cria uma experiência competitiva, onde cada um tenta prever o movimento da bola e reagir rapidamente.*
+
 *- O sistema de física simples adiciona variabilidade, pois a bola pode mudar de direção dependendo do ponto de impacto no paddle.*
+
 *- O ritmo do jogo aumenta conforme a bola acelera após certos rebates, exigindo maior precisão e reflexos.*
    
 **3. Estética (Aesthetics)**
   
 *- O jogo evoca sensações de desafio e competição, pois exige concentração e reflexos rápidos.*
+
 *- A simplicidade visual e sonora reforça a imersão no objetivo principal: vencer o adversário.*
+
 *- O minimalismo de Pong facilita o aprendizado e a jogabilidade intuitiva, tornando-o acessível para qualquer jogador.*
 
 ##  
