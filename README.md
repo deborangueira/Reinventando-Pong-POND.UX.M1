@@ -14,11 +14,11 @@
 ## 3. Proposta de Reinvenção  
 *Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  
 
-*- **Tema e Ambientação:** O contexto do jogo é um campo de futebol*
+*- **Tema e Ambientação:** O contexto do jogo é um campeonato de futebol*
 
 *- **Personagens ou Elementos Visuais:** Se houver personagens ou variações visuais, descreva.*
 
-*- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?*
+*- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?* o jogador vence após dar 10 gols, nesse momento confetis são liberados do lado vencedor
 
 *- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
 
@@ -29,11 +29,11 @@
 ## 4. Tela Digital do Jogo  
 *Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
 
-*- Como o concept foi adaptado para o formato digital?*
+*- Como o concept foi adaptado para o formato digital?* *A digitalização foi realizada utilizando imagens pré-existentes do Google e criando figuras específicas no FIGMA (a exemplo do placar). Com os assets finalizados, posicionamos cada elemento nos espaços adequados, ajustando tudo para as dimensões da tela do celular. *
 
-*- Quais elementos visuais foram aprimorados?*  
+*- Quais elementos visuais foram aprimorados?* *As barras, bola, placar e tela deram lugar aos elementos característicos de um jogo de futebol, sendo eles: jogadores, bola de futebol, placar de jogo e campo de futebol, respectivamente. *
 
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?* *O nosso design teve como proposta retomar a identidade visual do jogo original de 1972, e adicionar uma imerção no universo do futebol. Para isso, todos os elementos (cores, formas e layout) foram pensados em honrrar o design original. *
 
 ---
 
