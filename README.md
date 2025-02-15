@@ -2,10 +2,9 @@
 
 
 ## 1. Introdução  
-*Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
 
+Ao oferecer o desafio de propor uma nova abordagem ao Jogo Pong, o objetivo da atividade foi aplicar os conceitos de Framework MDA, Concept Art e Game Design. Nesse sentido, repensamos o Pong como uma partida de futebol minimalista, um reflexo da nossa escolha de trazer uma sensação nova, ao mesmo tempo que nostálgica e familiar pois preservamos a estética e jogabilidade original do jogo.
 
- 
 ---
 
 ## 2. Pesquisa e Análise Inicial  
@@ -38,7 +37,7 @@ A digitalização foi realizada utilizando imagens pré-existentes do Google e c
 
 *- Quais elementos visuais foram aprimorados?* 
 
-As barras, bola, placar e tela deram lugar aos elementos característicos de um jogo de futebol, sendo eles: jogadores, bola de futebol, placar de jogo e campo de futebol, respectivamente.
+Adaptamos os elementos visuais e mecânicos do Pong ao universo do futebol. Nesse sentido, as barras, bola, placar e tela deram lugar as figuras características de um jogo de futebol, sendo eles: jogadores, bola de futebol, placar de jogo e campo de futebol, respectivamente.
 
 *- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?* 
 
@@ -64,6 +63,5 @@ Pessoalmente, foi mais uma oportunidade de aprimorar minhas habilidades usando o
 ---
 
 ## 6. Referências 
-Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
 
 
