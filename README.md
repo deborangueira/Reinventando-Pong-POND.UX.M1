@@ -53,7 +53,7 @@ Ao oferecer o desafio de propor uma nova abordagem ao Jogo Pong, o objetivo da a
 
 *- **Mudanças na Mecânica:** O jogador vence após fazer 10 gols, a forma de pontuar os gols continua a mesma, mas após um gol confetis são liberados do lado de quam fez o gol. Agora na movimntação cada jogador terá um pouco mais de lierdade, podendo se mover um pouco para frente e para trás, Tirando essas mudanças a mecânica continua a mesma*
 
-*- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original? Nosso jogo tem como objeto de reinvenção o cenário,  o alvo que será agora uma bola de futebol e os players que não serão mais paddles e sim jogadores de futebol. Desejamos assim atigir o publico alvo infantil da geração atual, aprimorando o jogo para ser mais chamativo para as crianças da geração atual.*
+*- **Objetivo da Reinvenção:** Nosso jogo tem como objeto de reinvenção o cenário,  o alvo que será agora uma bola de futebol e os players que não serão mais paddles e sim jogadores de futebol. Desejamos assim atigir o publico alvo infantil da geração atual, aprimorando o jogo para ser mais chamativo para as crianças da geração atual.*
 
 ---
 
