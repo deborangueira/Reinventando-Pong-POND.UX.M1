@@ -10,51 +10,54 @@ Ao oferecer o desafio de propor uma nova abordagem ao Jogo Pong, o objetivo da a
 ## 2. Pesquisa e Análise Inicial  
 **1. Mecânica (Mechanics)**
 
-A mecânica de Pong é bastante simples:
+*A mecânica de Pong é bastante simples:*
 
-- Dois jogadores controlam barras verticais (paddles) que podem se mover para cima e para baixo.
-- A bola se move pela tela, rebatendo nas bordas superior e inferior e nos paddles dos jogadores.
-- Um ponto é marcado quando um jogador não consegue rebater a bola, e o outro jogador ganha um ponto.
-- O jogo continua até que um dos jogadores atinja a pontuação máxima.
+*- Dois jogadores controlam barras verticais (paddles) que podem se mover para cima e para baixo.*
+*- A bola se move pela tela, rebatendo nas bordas superior e inferior e nos paddles dos jogadores.*
+*- Um ponto é marcado quando um jogador não consegue rebater a bola, e o outro jogador ganha um ponto.*
+*- O jogo continua até que um dos jogadores atinja a pontuação máxima.*
   
 **2. Dinâmica (Dynamics)**
 
-- A interação entre os jogadores cria uma experiência competitiva, onde cada um tenta prever o movimento da bola e reagir rapidamente.
-- O sistema de física simples adiciona variabilidade, pois a bola pode mudar de direção dependendo do ponto de impacto no paddle.
-- O ritmo do jogo aumenta conforme a bola acelera após certos rebates, exigindo maior precisão e reflexos.
+*- A interação entre os jogadores cria uma experiência competitiva, onde cada um tenta prever o movimento da bola e reagir rapidamente.*
+*- O sistema de física simples adiciona variabilidade, pois a bola pode mudar de direção dependendo do ponto de impacto no paddle.*
+*- O ritmo do jogo aumenta conforme a bola acelera após certos rebates, exigindo maior precisão e reflexos.*
    
 **3. Estética (Aesthetics)**
   
-- O jogo evoca sensações de desafio e competição, pois exige concentração e reflexos rápidos.
-- A simplicidade visual e sonora reforça a imersão no objetivo principal: vencer o adversário.
-- O minimalismo de Pong facilita o aprendizado e a jogabilidade intuitiva, tornando-o acessível para qualquer jogador.
+*- O jogo evoca sensações de desafio e competição, pois exige concentração e reflexos rápidos.*
+*- A simplicidade visual e sonora reforça a imersão no objetivo principal: vencer o adversário.*
+*- O minimalismo de Pong facilita o aprendizado e a jogabilidade intuitiva, tornando-o acessível para qualquer jogador.*
 
 ##  
 
 **O que torna Pong envolvente e jogável?**
 
-- **Simplicidade e acessibilidade:** qualquer pessoa pode aprender rapidamente.
-- **Competição direta:** enfrentar outro jogador torna a experiência dinâmica e envolvente.
-- **Aprimoramento de habilidade:** os jogadores podem melhorar com a prática, o que mantém o jogo interessante.
-- **Feedback imediato:** a resposta rápida dos controles e a reação da bola ao impacto mantêm o jogador imerso.
+*- **Simplicidade e acessibilidade:** qualquer pessoa pode aprender rapidamente.*
+
+*- **Competição direta:** enfrentar outro jogador torna a experiência dinâmica e envolvente.*
+
+*- **Aprimoramento de habilidade:** os jogadores podem melhorar com a prática, o que mantém o jogo interessante.*
+
+*- **Feedback imediato:** a resposta rápida dos controles e a reação da bola ao impacto mantêm o jogador imerso.*
 
 **Elementos principais de diversão e desafio**
 
-- **Diversão:** Surge da competição direta, da simplicidade do jogo e da necessidade de rápidas tomadas de decisão.
-- **Desafio:** Aumenta à medida que a bola acelera, exigindo maior precisão e tempo de reação.
+*- **Diversão:** Surge da competição direta, da simplicidade do jogo e da necessidade de rápidas tomadas de decisão.*
+
+*- **Desafio:** Aumenta à medida que a bola acelera, exigindo maior precisão e tempo de reação.*
 
 ---
 
-## 3. Proposta de Reinvenção  
-*Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  
+## 3. Proposta de Reinvenção    
 
-*- **Tema e Ambientação:** O contexto do jogo é um campeonato de futebol*
+*- **Tema e Ambientação:** O contexto do jogo é um campeonato de futebol, onde ao inves e se passar no ambiente de pong se passará em um campo de futebol, sendo a linha de meio campo a divisão entre as áreas dos jogadores.*
 
-*- **Personagens ou Elementos Visuais:** Se houver personagens ou variações visuais, descreva.*
+*- **Personagens ou Elementos Visuais:** Nossa nova versão de pong disponibilizará 6 opções de personagens para o player escolher, baseados em jogadores de futebol famosos: Cristiano Ronaldo, Messi, Neymar Jr., Mbappe, Vinicius Jr. e Jude Bellingham.*
 
-*- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?* o jogador vence após dar 10 gols, nesse momento confetis são liberados do lado vencedor
+*- **Mudanças na Mecânica:** O jogador vence após fazer 10 gols, a forma de pontuar os gols continua a mesma, mas após um gol confetis são liberados do lado de quam fez o gol. Agora na movimntação cada jogador terá um pouco mais de lierdade, podendo se mover um pouco para frente e para trás, Tirando essas mudanças a mecânica continua a mesma*
 
-*- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
+*- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original? Nosso jogo tem como objeto de reinvenção o cenário,  o alvo que será agora uma bola de futebol e os players que não serão mais paddles e sim jogadores de futebol. Desejamos assim atigir o publico alvo infantil da geração atual, aprimorando o jogo para ser mais chamativo para as crianças da geração atual.*
 
 *Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
 
