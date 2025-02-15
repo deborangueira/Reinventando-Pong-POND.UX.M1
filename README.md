@@ -8,7 +8,40 @@ Ao oferecer o desafio de propor uma nova abordagem ao Jogo Pong, o objetivo da a
 ---
 
 ## 2. Pesquisa e Análise Inicial  
-*Explique as principais características do **jogo original Pong**, considerando os três elementos do **Framework MDA** e responda: o que torna Pong um jogo envolvente e jogável? Quais são seus **elementos principais de diversão e desafio**?*
+**1. Mecânica (Mechanics)**
+
+A mecânica de Pong é bastante simples:
+
+- Dois jogadores controlam barras verticais (paddles) que podem se mover para cima e para baixo.
+- A bola se move pela tela, rebatendo nas bordas superior e inferior e nos paddles dos jogadores.
+- Um ponto é marcado quando um jogador não consegue rebater a bola, e o outro jogador ganha um ponto.
+- O jogo continua até que um dos jogadores atinja a pontuação máxima.
+  
+**2. Dinâmica (Dynamics)**
+
+- A interação entre os jogadores cria uma experiência competitiva, onde cada um tenta prever o movimento da bola e reagir rapidamente.
+- O sistema de física simples adiciona variabilidade, pois a bola pode mudar de direção dependendo do ponto de impacto no paddle.
+- O ritmo do jogo aumenta conforme a bola acelera após certos rebates, exigindo maior precisão e reflexos.
+   
+**3. Estética (Aesthetics)**
+  
+- O jogo evoca sensações de desafio e competição, pois exige concentração e reflexos rápidos.
+- A simplicidade visual e sonora reforça a imersão no objetivo principal: vencer o adversário.
+- O minimalismo de Pong facilita o aprendizado e a jogabilidade intuitiva, tornando-o acessível para qualquer jogador.
+
+##  
+
+**O que torna Pong envolvente e jogável?**
+
+- **Simplicidade e acessibilidade:** qualquer pessoa pode aprender rapidamente.
+- **Competição direta:** enfrentar outro jogador torna a experiência dinâmica e envolvente.
+- **Aprimoramento de habilidade:** os jogadores podem melhorar com a prática, o que mantém o jogo interessante.
+- **Feedback imediato:** a resposta rápida dos controles e a reação da bola ao impacto mantêm o jogador imerso.
+
+**Elementos principais de diversão e desafio**
+
+- **Diversão:** Surge da competição direta, da simplicidade do jogo e da necessidade de rápidas tomadas de decisão.
+- **Desafio:** Aumenta à medida que a bola acelera, exigindo maior precisão e tempo de reação.
 
 ---
 
