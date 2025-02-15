@@ -99,4 +99,7 @@ Pessoalmente, foi mais uma oportunidade de aprimorar minhas habilidades usando o
 
 ## 6. Referências 
 
+1. https://pt.wikipedia.org/wiki/Pong?utm_source=chatgpt.com
+2. https://www.techtudo.com.br/noticias/2016/03/conheca-pong-o-primeiro-videogame-lucrativo-da-historia.ghtml?utm_source=chatgpt.com
+3. https://www.em.com.br/app/noticia/tecnologia/2022/02/21/interna_tecnologia%2C1346424/pong-o-jogo-que-deu-origem-a-industria-de-videogames-ha-5-decadas.shtml?utm_source=chatgpt.com 
 
