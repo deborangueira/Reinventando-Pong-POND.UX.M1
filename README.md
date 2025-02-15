@@ -81,7 +81,12 @@ O nosso design teve como proposta retomar a identidade visual do jogo original d
 
 Bernardo
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+
+O principal desafio foi a conclusão do relatório, essa etapa demandou mais tempo e atenção aos detalhes. No entanto, a idealização do jogo ocorreu de forma tranquila, com ambos os integrantes da dupla alinhados nas decisões tomadas. 
+
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+
+Durante a atividade, aprimorei minha habilidade no preenchimento e organização de documentos no GitHub. Além disso, o trabalho em equipe foi bem fluido. Por fim, a criatividade foi ótima para adaptar e aprimorar um jogo já existente, explorando novas possibilidades e melhorias.
 
 Débora
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
