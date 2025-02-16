@@ -47,13 +47,13 @@ Ao oferecer o desafio de propor uma nova abordagem ao Jogo Pong, o objetivo da a
 
 ## 3. Proposta de Reinvenção    
 
-*- **Tema e Ambientação:** O contexto do jogo é um campeonato de futebol, onde ao inves e se passar no ambiente de pong se passará em um campo de futebol, sendo a linha de meio campo a divisão entre as áreas dos jogadores.*
+- **Tema e Ambientação:** O contexto do jogo é um campeonato de futebol, onde ao inves e se passar no ambiente de pong se passará em um campo de futebol, sendo a linha de meio campo a divisão entre as áreas dos jogadores.*
 
-*- **Personagens ou Elementos Visuais:** Nossa nova versão de pong disponibilizará 6 opções de personagens para o player escolher, baseados em jogadores de futebol famosos: Cristiano Ronaldo, Messi, Neymar Jr., Mbappe, Vinicius Jr. e Jude Bellingham.*
+- **Personagens ou Elementos Visuais:** Nossa nova versão de pong disponibilizará 6 opções de personagens para o player escolher, baseados em jogadores de futebol famosos: Cristiano Ronaldo, Messi, Neymar Jr., Mbappe, Vinicius Jr. e Jude Bellingham.*
 
-*- **Mudanças na Mecânica:** O jogador vence após fazer 10 gols, a forma de pontuar os gols continua a mesma, mas após um gol confetis são liberados do lado de quam fez o gol. Agora na movimntação cada jogador terá um pouco mais de lierdade, podendo se mover um pouco para frente e para trás, Tirando essas mudanças a mecânica continua a mesma*
+- **Mudanças na Mecânica:** O jogador vence após fazer 10 gols, a forma de pontuar os gols continua a mesma, mas após um gol confetis são liberados do lado de quam fez o gol. Agora na movimntação cada jogador terá um pouco mais de lierdade, podendo se mover um pouco para frente e para trás, Tirando essas mudanças a mecânica continua a mesma*
 
-*- **Objetivo da Reinvenção:** Nosso jogo tem como objeto de reinvenção o cenário,  o alvo que será agora uma bola de futebol e os players que não serão mais paddles e sim jogadores de futebol. Desejamos assim atigir o publico alvo infantil da geração atual, aprimorando o jogo para ser mais chamativo para as crianças da geração atual.*
+- **Objetivo da Reinvenção:** Nosso jogo tem como objeto de reinvenção o cenário,  o alvo que será agora uma bola de futebol e os players que não serão mais paddles e sim jogadores de futebol. Desejamos assim atigir o publico alvo infantil, aprimorando o jogo para ser mais chamativo para as crianças da geração atual.*
 
 ---
 
@@ -61,45 +61,39 @@ Ao oferecer o desafio de propor uma nova abordagem ao Jogo Pong, o objetivo da a
 
 [`Clique aqui`](https://drive.google.com/drive/folders/12o2MsSV16KzXEVwJZwf4_oUb8IfYchrd?usp=sharing) para ver as telas do jogo: de menu e da partida.
 
-*- Como o concept foi adaptado para o formato digital?* 
+- **Adaptação do concept para o formato digital:** Utilizamos o software Canva durante o processo e selecionamos assets através de pesquisas no Google e criação de figuras específicas no FIGMA - a exemplo do placar. Com os assets prontos, posicionamos cada elemento nos espaços adequados, ajustando tudo para as dimensões da tela do celular. Dessa forma, nosso esboço inicial pôde ser completamente adaptado para o contexto digital, tendo ocorrido apenas algumas alterações na tela inicial - removemos o "VS" e adicionamos o botão "start" e o título do jogo: "Pong•Cup". 
 
-A digitalização foi realizada utilizando imagens pré-existentes do Google e criando figuras específicas no FIGMA (a exemplo do placar). Com os assets finalizados, posicionamos cada elemento nos espaços adequados, ajustando tudo para as dimensões da tela do celular.
+- **Aprimoramento dos elementos visuais:** Foi realizado através da adaptação dos elementos visuais e mecânicos do Pong ao universo do futebol. Nesse sentido, as barras, bola, placar e tela deram lugar as figuras características de um jogo de futebol, sendo eles: jogadores, bola de futebol, placar de jogo e campo de futebol, respectivamente.
 
-*- Quais elementos visuais foram aprimorados?* 
-
-Adaptamos os elementos visuais e mecânicos do Pong ao universo do futebol. Nesse sentido, as barras, bola, placar e tela deram lugar as figuras características de um jogo de futebol, sendo eles: jogadores, bola de futebol, placar de jogo e campo de futebol, respectivamente.
-
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?* 
-
-O nosso design teve como proposta retomar a identidade visual do jogo original de 1972, e adicionar uma imerção no universo do futebol. Para isso, todos os elementos (cores, formas e layout) foram pensados em honrrar o design original.
+- **Cores, formas e layout:** Todos esses elementos foram pensados para reforçar a sensação de familiaridade com o jogo original de 1972, nossa proposta foi retomar a identidade visual do jogo e adicionar uma imerção no universo do futebol.
 
 ---
 
 ## 5. Reflexão e Aprendizados  
 
-Bernardo
-1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+### _Bernardo_
 
+**Quais foram os maiores desafios enfrentados durante o processo de criação?**  
 O principal desafio foi a conclusão do relatório, essa etapa demandou mais tempo e atenção aos detalhes. No entanto, a idealização do jogo ocorreu de forma tranquila, com ambos os integrantes da dupla alinhados nas decisões tomadas. 
 
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+**Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?**  
 
 Durante a atividade, aprimorei minha habilidade no preenchimento e organização de documentos no GitHub. Além disso, o trabalho em equipe foi bem fluido. Por fim, a criatividade foi ótima para adaptar e aprimorar um jogo já existente, explorando novas possibilidades e melhorias.
 
-Débora
-1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+### _Débora_
 
-No geral, foi tranquilo fazer essa atividade no que se refere a idealização e execução. Nesse sentido, acho que realizar a documentação foi mais desafidor apenas por conta do tempo maior dedicado para fazer a organização das informações, pesquisas e revisão. 
+**Quais foram os maiores desafios enfrentados durante o processo de criação?** 
+Acredito  que realizar a documentação foi mais desafidor apenas por conta do tempo maior dedicado para fazer a organização das informações, pesquisas e revisão. No geral, essa atividade foi bem tranquila no que se refere a idealização, execução e trabalho em equipe.
 
-3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
-
-Pessoalmente, foi mais uma oportunidade de aprimorar minhas habilidades usando o Figma, tendo em vista que não faz nem uma semana que comecei a usar o software. Além disso, gosto da ideia de partir de algo já existente e reimagina-lo, pois isso me ajuda a exercitar a criatividade com mais facilidade tendo em vista que isso permite superar a barreira inicial de ter que começar algo do zero.
+**Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?**  
+Acredito que essa atividade foi uma oportunidade de exercitar minhas habilidades com o figma já que iniciei a pouco tempo, bem como aprender mais sobre o GitHub (read.me e colboração simultânea em um mesmo repositório), e a habilidade de descrever e justificar escolhas criativas também. Além disso, gosto da ideia de partir de algo já existente e reimagina-lo, pois isso me ajuda a exercitar a criatividade com mais facilidade tendo em vista que  permite superar a barreira inicial de ter que começar algo do zero.
 
 ---
 
 ## 6. Referências 
 
-1. https://pt.wikipedia.org/wiki/Pong
-2. https://www.techtudo.com.br/noticias/2016/03/conheca-pong-o-primeiro-videogame-lucrativo-da-historia.ghtml
-3. https://www.em.com.br/app/noticia/tecnologia/2022/02/21/interna_tecnologia%2C1346424/pong-o-jogo-que-deu-origem-a-industria-de-videogames-ha-5-decadas.shtml
+1. https://www.ponggame.org/
+2. https://pt.wikipedia.org/wiki/Pong
+3. https://www.techtudo.com.br/noticias/2016/03/conheca-pong-o-primeiro-videogame-lucrativo-da-historia.ghtml
+4. https://www.em.com.br/app/noticia/tecnologia/2022/02/21/interna_tecnologia%2C1346424/pong-o-jogo-que-deu-origem-a-industria-de-videogames-ha-5-decadas.shtml
 
