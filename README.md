@@ -77,12 +77,11 @@ Ao oferecer o desafio de propor uma nova abordagem ao Jogo Pong, o objetivo da a
 O principal desafio foi a conclusão do relatório, essa etapa demandou mais tempo e atenção aos detalhes. No entanto, a idealização do jogo ocorreu de forma tranquila, com ambos os integrantes da dupla alinhados nas decisões tomadas. 
 
 **Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?**  
-
 Durante a atividade, aprimorei minha habilidade no preenchimento e organização de documentos no GitHub. Além disso, o trabalho em equipe foi bem fluido. Por fim, a criatividade foi ótima para adaptar e aprimorar um jogo já existente, explorando novas possibilidades e melhorias.
 
 ### _Débora_
 
-**Quais foram os maiores desafios enfrentados durante o processo de criação?** 
+**Quais foram os maiores desafios enfrentados durante o processo de criação?**  
 Acredito  que realizar a documentação foi mais desafidor apenas por conta do tempo maior dedicado para fazer a organização das informações, pesquisas e revisão. No geral, essa atividade foi bem tranquila no que se refere a idealização, execução e trabalho em equipe.
 
 **Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?**  
